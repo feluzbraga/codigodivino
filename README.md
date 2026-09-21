@@ -14,3 +14,6 @@ Como publicar:
 
 Observação:
 As imagens foram mantidas usando os endereços CDN encontrados no HTML original do template Hostinger. Para uma versão totalmente independente, substitua essas URLs por arquivos locais na pasta /assets.
+
+
+Checkout configurado nos botões: https://pay.kiwify.com/la7svQG
